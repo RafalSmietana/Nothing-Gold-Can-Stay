@@ -89,7 +89,11 @@ Major frameworks/libraries used to bootstrap the project.
 3. Play the Project inside Unreal or Make a Build
 
 <!-- CONTACT -->
-## Contact
+## Contact the creators
+
+* Rafal Smietana - smietana.rafal@outlook.com
+* [!LinkedIn][linkedin-shield]][linkedin-url2]
+* [![Portfolio][portfolioIcon-url]][portfolio-url2]
 
 * Kalpan Agrawal - agrawal.k@northeastern.edu
 * [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -99,7 +103,9 @@ Major frameworks/libraries used to bootstrap the project.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kp-ag/
+[linkedin-url2]: [https://www.linkedin.com/in/kp-ag/](https://www.linkedin.com/in/rafal-smietana-299475205/)
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [portfolio-url]: https://kalpan-ag.github.io/
+[portfolio-url2]: https://rsmietana.portfoliobox.net/
 
 
