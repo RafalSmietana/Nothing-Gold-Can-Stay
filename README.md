@@ -92,7 +92,7 @@ Major frameworks/libraries used to bootstrap the project.
 ## Contact the creators
 
 * Rafal Smietana - smietana.rafal@outlook.com
-* [!LinkedIn][linkedin-shield]][linkedin-url2]
+* [!{LinkedIn][linkedin-shield]][linkedin-url2]
 * [![Portfolio][portfolioIcon-url]][portfolio-url2]
 
 * Kalpan Agrawal - agrawal.k@northeastern.edu
