@@ -103,7 +103,7 @@ Major frameworks/libraries used to bootstrap the project.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kp-ag/
-[linkedin-url2]: [https://www.linkedin.com/in/kp-ag/](https://www.linkedin.com/in/rafal-smietana-299475205/)
+[linkedin-url2]: https://www.linkedin.com/in/rafal-smietana-299475205/
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [portfolio-url]: https://kalpan-ag.github.io/
 [portfolio-url2]: https://rsmietana.portfoliobox.net/
